@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
