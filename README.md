@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -116,4 +119,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
