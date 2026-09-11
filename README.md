@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2029-stone-game-ix](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
