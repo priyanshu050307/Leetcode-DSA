@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
