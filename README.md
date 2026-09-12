@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2029-stone-game-ix](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -106,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
