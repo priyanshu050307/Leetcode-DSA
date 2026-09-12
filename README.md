@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2029-stone-game-ix](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
