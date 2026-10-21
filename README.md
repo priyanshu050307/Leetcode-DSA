@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
