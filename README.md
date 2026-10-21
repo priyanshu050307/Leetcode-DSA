@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
