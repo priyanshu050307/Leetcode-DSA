@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
