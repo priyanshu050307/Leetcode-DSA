@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu050307/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
